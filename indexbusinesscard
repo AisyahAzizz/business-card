@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="stylebusiness.css" />
+    </head>
+    <body>
+        <div class="card">
+            <div>
+                <img  
+                    src="passportphoto.jpg" 
+                    alt="Aisyah passportphoto"
+                    class="avatar" />
+            </div>
+            <div class>
+                <h3>Siti Aisyah Binti ABdul Aziz</h3>
+                <p>Java Developer</p>
+                <h4>Puchong, Selangor</h4>
+            </div>
+        </div>
+    </body>
+</html>
